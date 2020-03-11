@@ -17,5 +17,4 @@ public class MemberVo {
 	private String name;
 	private String addr;
 	private String mobile;
-
 }
